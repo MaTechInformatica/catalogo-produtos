@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function renderizarDetalhes(produto) {
         document.title = produto.nome;
         const slug = criarSlug(produto.nome);
-        const basePath = `img/${produto.categoria}/${slug}/`;
+        const basePath = `./img/${produto.categoria}/${slug}/`;
         
         let carouselIndicators = '';
         let carouselInner = '';

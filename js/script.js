@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
         produtos.forEach(produto => {
             const slug = criarSlug(produto.nome);
             const temImagens = produto.quantidadeImagens && produto.quantidadeImagens > 0;
-            const imagemPrincipal = temImagens ? `img/${produto.categoria}/${slug}/1.jpg` : 'https://via.placeholder.com/400x300?text=Sem+Imagem';
+            const imagemPrincipal = temImagens ? `./img/${produto.categoria}/${slug}/1.jpg` : 'https://via.placeholder.com/400x300?text=Sem+Imagem';
 
             const cardProduto = `
                 <div class="col-12 col-md-6 col-lg-4">
