@@ -1,26 +1,13 @@
 [
   {
-    "id": 1,
-    "nome": "Teclado Mecânico Gamer RGB",
-    "categoria": "teclado",
-    "preco": 350.50,
+    "id": 2,
+    "nome": "Mouse Gamer Logitech G Pro",
+    "categoria": "mouse",
+    "preco": 500.0,
     "imagens": [
       "img/1.png",
       "img/2.png",
       "img/3.png"
-    ],
-    "descricao": "Um teclado mecânico de alta performance com switches Blue, iluminação RGB totalmente customizável e construção em alumínio escovado. Ideal para gamers e profissionais que buscam precisão e durabilidade.",
-    "disponivel": true
-  },
-  {
-    "id": 2,
-    "nome": "Mouse Gamer Logitech G Pro",
-    "categoria": "mouse",
-    "preco": 499.00,
-    "imagens": [
-      "img/mouse_logitech.jpg",
-      "img/mouse_logitech_detalhe1.jpg",
-      "img/mouse_logitech_detalhe2.jpg"
     ],
     "descricao": "Mouse ultraleve projetado com a ajuda de pro-players. Sensor HERO 25K para máxima precisão e velocidade. Perfeito para jogos competitivos.",
     "disponivel": true
@@ -29,7 +16,7 @@
     "id": 3,
     "nome": "SSD Kingston A400 480GB",
     "categoria": "ssd",
-    "preco": 280.00,
+    "preco": 280.0,
     "imagens": [
       "img/ssd_kingston.jpg",
       "img/ssd_kingston_detalhe1.jpg"
@@ -41,11 +28,20 @@
     "id": 4,
     "nome": "Memória RAM Corsair Vengeance 8GB DDR4",
     "categoria": "ram",
-    "preco": 250.90,
+    "preco": 250.9,
     "imagens": [
       "img/ram_corsair.jpg"
     ],
     "descricao": "Módulo de memória DDR4 de 8GB otimizado para as mais recentes placas-mãe Intel e AMD. Perfeito para dar um upgrade no desempenho do seu PC para jogos e multitarefa.",
+    "disponivel": true
+  },
+  {
+    "id": 5,
+    "nome": "RAM DDR4 8GB",
+    "categoria": "outro",
+    "preco": 45.0,
+    "imagens": [],
+    "descricao": "lorem kak  dsak adsk",
     "disponivel": true
   }
 ]
