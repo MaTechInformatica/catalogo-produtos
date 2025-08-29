@@ -25,3 +25,15 @@
     background-color: #0d6efd;
     color: white;
 }
+
+/* css/style.css */
+
+#filtro-disponibilidade-switch {
+    font-size: 1.1rem; /* Aumenta um pouco o tamanho da fonte e do switch */
+    padding-top: 5px; /* Alinha verticalmente se necessário */
+}
+
+#filtro-disponibilidade-switch .form-check-label,
+#filtro-disponibilidade-switch .form-check-input {
+    cursor: pointer; /* Garante que o cursor vire uma "mãozinha" sobre o texto e o switch */
+}

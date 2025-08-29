@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             <h5 class="card-title">${produto.nome}</h5>
                             <p class="card-text">Categoria: <span class="badge bg-secondary">${produto.categoria}</span></p>
                             <h6 class="card-subtitle mb-2 mt-auto">R$ ${produto.preco.toFixed(2).replace('.', ',')}</h6>
-                            <a href="#" class="btn btn-primary">Ver detalhes</a>
+                            <a href="produto.html?id=${produto.id}" class="btn btn-primary">Ver detalhes</a>
                         </div>
                     </div>
                 </div>
