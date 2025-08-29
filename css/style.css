@@ -37,3 +37,12 @@
 #filtro-disponibilidade-switch .form-check-input {
     cursor: pointer; /* Garante que o cursor vire uma "mãozinha" sobre o texto e o switch */
 }
+
+/* No seu arquivo css/style.css */
+
+/* Garante que as imagens do carousel tenham uma altura consistente */
+.carousel-item img {
+    height: 400px; /* Ajuste esta altura conforme sua preferência */
+    object-fit: cover; /* Recorta a imagem para cobrir a área sem distorcer */
+    width: 100%; /* Garante que a imagem ocupe toda a largura disponível */
+}

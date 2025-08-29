@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const cardProduto = `
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="card h-100">
-                        <img src="${produto.imagem}" class="card-img-top" alt="${produto.nome}">
+                        <img src="${produto.imagens[0]}" class="card-img-top" alt="${produto.nome}">
                         <div class="card-body d-flex flex-column">
                             <h5 class="card-title">${produto.nome}</h5>
                             <p class="card-text">Categoria: <span class="badge bg-secondary">${produto.categoria}</span></p>
