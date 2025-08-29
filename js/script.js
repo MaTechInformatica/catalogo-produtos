@@ -1,14 +1,12 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // Elementos da página
     const vitrineProdutos = document.getElementById('vitrine-produtos');
     const barraPesquisa = document.getElementById('barra-pesquisa');
-    const filtrosCategoria = document.getElementById('filtros-categoria'); // Essencial para os botões
-    const switchDisponibilidade = document.getElementById('switch-disponiveis'); // Para o switch
+    const filtrosCategoria = document.getElementById('filtros-categoria');
+    const switchDisponibilidade = document.getElementById('switch-disponiveis');
 
-    // Variáveis de estado
     let todosOsProdutos = [];
     let filtroDisponibilidadeAtual = 'disponiveis';
-    let filtroCategoriaAtual = 'todos'; // Estado inicial para categoria
+    let filtroCategoriaAtual = 'todos'; 
     let termoBuscaAtual = '';
 
     // Função principal para carregar os produtos
@@ -27,17 +25,17 @@ document.addEventListener('DOMContentLoaded', () => {
     function aplicarFiltros() {
         let produtosFiltrados = todosOsProdutos;
 
-        // 1. Filtro de Disponibilidade
+        // Filtro de Disponibilidade
         if (filtroDisponibilidadeAtual === 'disponiveis') {
             produtosFiltrados = produtosFiltrados.filter(p => p.disponivel === true);
         }
 
-        // 2. Filtro de Categoria
+        // Filtro de Categoria
         if (filtroCategoriaAtual !== 'todos') {
             produtosFiltrados = produtosFiltrados.filter(p => p.categoria === filtroCategoriaAtual);
         }
 
-        // 3. Filtro de Pesquisa
+        // Filtro de Pesquisa
         if (termoBuscaAtual) {
             produtosFiltrados = produtosFiltrados.filter(p =>
                 p.nome.toLowerCase().includes(termoBuscaAtual) ||
@@ -48,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
         renderizarProdutos(produtosFiltrados);
     }
 
-    // Função para renderizar os produtos na tela
+    // renderizar os produtos na tela
     function renderizarProdutos(produtos) {
         vitrineProdutos.innerHTML = '';
         if (produtos.length === 0) {
@@ -74,7 +72,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // --- Event Listeners Corretos ---
+    //listeners para os filtros
 
     // Listener para o switch de disponibilidade
     switchDisponibilidade.addEventListener('change', (e) => {
@@ -82,9 +80,8 @@ document.addEventListener('DOMContentLoaded', () => {
         aplicarFiltros();
     });
 
-    // Listener para os botões de categoria (REVISADO)
+    // Listener para os botões de categoria 
     filtrosCategoria.addEventListener('click', (e) => {
-        // Garante que o clique foi em um botão dentro do container
         if (e.target.tagName === 'BUTTON') {
             // Lógica para o efeito visual de "ativo"
             document.querySelectorAll('#filtros-categoria button').forEach(btn => btn.classList.remove('active'));
@@ -93,7 +90,6 @@ document.addEventListener('DOMContentLoaded', () => {
             // Atualiza a variável de estado da categoria
             filtroCategoriaAtual = e.target.getAttribute('data-categoria');
             
-            // Aplica todos os filtros novamente
             aplicarFiltros();
         }
     });
@@ -104,7 +100,5 @@ document.addEventListener('DOMContentLoaded', () => {
         aplicarFiltros();
     });
 
-    // Inicia o carregamento dos produtos
     carregarProdutos();
-
 });

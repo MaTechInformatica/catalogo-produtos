@@ -1,4 +1,3 @@
-// ARQUIVO: js/produto.js (VERSÃO FINAL E CORRIGIDA)
 document.addEventListener('DOMContentLoaded', () => {
     const detalhesProdutoDiv = document.getElementById('detalhes-produto');
     const params = new URLSearchParams(window.location.search);
@@ -29,7 +28,6 @@ document.addEventListener('DOMContentLoaded', () => {
     function renderizarDetalhes(produto) {
         document.title = produto.nome;
 
-        // --- Início da lógica de criação do Carousel ---
         let carouselIndicators = '';
         let carouselInner = '';
 
@@ -41,7 +39,6 @@ document.addEventListener('DOMContentLoaded', () => {
                             class="${index === 0 ? 'active' : ''}" aria-current="${index === 0 ? 'true' : 'false'}" 
                             aria-label="Slide ${index + 1}"></button>
                 `;
-                // Cria os slides com as imagens
                 carouselInner += `
                     <div class="carousel-item ${index === 0 ? 'active' : ''}">
                         <img src="${imagemUrl}" class="d-block w-100 img-fluid rounded" alt="${produto.nome} - Imagem ${index + 1}">
@@ -49,12 +46,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 `;
             });
         } else {
-            // Caso não haja imagens, mostra um placeholder
             carouselInner = `<div class="carousel-item active"><img src="img/placeholder.png" class="d-block w-100" alt="Sem Imagem"></div>`;
         }
-        // --- Fim da lógica de criação do Carousel ---
 
-        // Agora, montamos a estrutura COMPLETA das colunas e injetamos as partes do carousel
         detalhesProdutoDiv.innerHTML = `
             <div class="col-md-6">
                 <div id="carouselProduto" class="carousel slide carousel-fade" data-bs-ride="carousel">
@@ -88,11 +82,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function configurarLinkWhatsApp(produto) {
         const btnWhatsapp = document.getElementById('btn-whatsapp');
-        const seuNumero = '5588996889306'; // !!! SUBSTITUA SEU NÚMERO AQUI
+        const whatsapp = '5588996889306';
         const nomeProduto = encodeURIComponent(produto.nome);
         const linkProduto = encodeURIComponent(window.location.href);
         const mensagem = `Me interessei por este produto: ${nomeProduto} link: ${linkProduto}`;
-        const urlWhatsapp = `https://wa.me/${seuNumero}?text=${mensagem}`;
+        const urlWhatsapp = `https://wa.me/${whatsapp}?text=${mensagem}`;
         btnWhatsapp.href = urlWhatsapp;
 
         if (!produto.disponivel) {
