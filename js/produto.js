@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <p>${produto.disponivel ? '<span class="badge bg-success">Disponível</span>' : '<span class="badge bg-danger">Indisponível</span>'}</p>
                 <h3 class="mt-auto">R$ ${produto.preco.toFixed(2).replace('.', ',')}</h3>
                 <div class="d-grid gap-2 d-sm-flex mt-3">
-                    <a id="btn-whatsapp" href="#" class="btn btn-success btn-lg flex-grow-1">Tenho interesse!</a>
+                    <a id="btn-whatsapp" href="#" class="btn btn-success btn-lg flex-grow-1">Solicitar (WhatsApp)</a>
                     <a href="index.html" class="btn btn-secondary btn-lg flex-grow-1">Voltar ao Catálogo</a>
                 </div>
             </div>`;
