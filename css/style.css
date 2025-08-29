@@ -1,0 +1,27 @@
+/* Centraliza o conteúdo da vitrine quando há poucos itens */
+#vitrine-produtos {
+    justify-content: center;
+}
+
+/* Garante que as imagens dos cards não fiquem distorcidas */
+.card-img-top {
+    width: 100%;
+    height: 200px; /* Altura fixa para as imagens */
+    object-fit: cover; /* Faz a imagem cobrir a área sem distorcer */
+}
+
+/* Adiciona um efeito de hover suave nos cards */
+.card {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* Estilo para o botão de filtro ativo */
+#filtros-categoria .btn.active {
+    background-color: #0d6efd;
+    color: white;
+}

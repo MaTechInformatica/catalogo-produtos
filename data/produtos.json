@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nome": "Teclado Mecânico Gamer RGB",
+    "categoria": "teclado",
+    "preco": 350.50,
+    "imagem": "img/teclado_mecanico.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Mouse Gamer Logitech G Pro",
+    "categoria": "mouse",
+    "preco": 499.00,
+    "imagem": "img/mouse_logitech.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "SSD Kingston A400 480GB",
+    "categoria": "ssd",
+    "preco": 280.00,
+    "imagem": "img/ssd_kingston.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Memória RAM Corsair Vengeance 8GB DDR4",
+    "categoria": "ram",
+    "preco": 250.90,
+    "imagem": "img/ram_corsair.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Mousepad Gamer HyperX",
+    "categoria": "mouse",
+    "preco": 99.90,
+    "imagem": "img/mousepad_hyperx.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Teclado sem Fio Logitech MX Keys",
+    "categoria": "teclado",
+    "preco": 550.00,
+    "imagem": "img/teclado_logitech.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "SSD NVMe Samsung 970 EVO Plus 1TB",
+    "categoria": "ssd",
+    "preco": 750.00,
+    "imagem": "img/ssd_samsung.jpg"
+  }
+]
