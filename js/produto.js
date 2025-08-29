@@ -46,10 +46,11 @@ document.addEventListener('DOMContentLoaded', () => {
         <h1>${produto.nome}</h1>
         <p class="lead text-muted">${produto.descricao}</p>
         
-        ${produto.disponivel
-                ? '<p><span class="badge bg-success">Disponível em estoque</span></p>'
-                : '<p><span class="badge bg-danger">Produto indisponível</span></p>'
-            }
+        ${
+            produto.disponivel
+            ? '<p><span class="badge bg-success">Disponível em estoque</span></p>'
+            : '<p><span class="badge bg-danger">Produto indisponível</span></p>'
+        }
 
         <h3 class="mt-auto">R$ ${produto.preco.toFixed(2).replace('.', ',')}</h3>
         
