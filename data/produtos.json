@@ -4,7 +4,7 @@
     "nome": "Fone de Ouvido Lenovo GM2 PRO",
     "categoria": "fones",
     "preco": 99,
-    "imagens": [],
+    "quantidadeImagens": 3,
     "descricao": "Fone de ouvido sem fio de baixa latência, ideal para jogos e uso diário.",
     "disponivel": true
   },
@@ -13,7 +13,7 @@
     "nome": "RAM DDR3 2GB",
     "categoria": "ram",
     "preco": 15,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Módulo de memória RAM com 2GB de capacidade, padrão DDR3.",
     "disponivel": false
   },
@@ -22,7 +22,7 @@
     "nome": "Fone Dapon H02D",
     "categoria": "fones",
     "preco": 85,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Fone de ouvido com fio para diversas finalidades.",
     "disponivel": true
   },
@@ -31,7 +31,7 @@
     "nome": "SSD Crucial 500GB",
     "categoria": "ssd",
     "preco": 230,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Unidade de estado sólido (SSD) com 500GB de armazenamento para upgrade de performance.",
     "disponivel": true
   },
@@ -40,7 +40,7 @@
     "nome": "SSD NVME 512GB Huadisk",
     "categoria": "ssd",
     "preco": 230,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Unidade de estado sólido (SSD) padrão NVMe com 512GB para máxima velocidade de leitura e escrita.",
     "disponivel": true
   },
@@ -49,7 +49,7 @@
     "nome": "HD 500GB",
     "categoria": "hd",
     "preco": 80,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Disco rígido (HD) com 500GB de capacidade para armazenamento geral de arquivos.",
     "disponivel": true
   },
@@ -58,7 +58,7 @@
     "nome": "Kit Ferramentas Nell 142p",
     "categoria": "ferramentas",
     "preco": 90,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Conjunto de ferramentas com 142 peças para manutenção e reparos gerais.",
     "disponivel": true
   },
@@ -67,7 +67,7 @@
     "nome": "Kit Ferramentas Sparta 129p",
     "categoria": "ferramentas",
     "preco": 100,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Conjunto de ferramentas Sparta com 129 peças para diversas aplicações.",
     "disponivel": true
   },
@@ -76,7 +76,7 @@
     "nome": "Chave de Precisão 32p",
     "categoria": "ferramentas",
     "preco": 25,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Jogo de chaves de precisão com 32 pontas, ideal para eletrônicos e pequenos reparos.",
     "disponivel": true
   },
@@ -85,7 +85,7 @@
     "nome": "Filtro de Linha iClamper",
     "categoria": "acessórios",
     "preco": 85,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Protetor contra surtos elétricos (DPS) para equipamentos eletrônicos.",
     "disponivel": true
   },
@@ -94,7 +94,7 @@
     "nome": "Adaptador Bluetooth Ugreen 6.0",
     "categoria": "acessórios",
     "preco": 40,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Adaptador USB para adicionar conectividade Bluetooth 6.0 ao seu computador.",
     "disponivel": true
   },
@@ -103,7 +103,7 @@
     "nome": "Case para HD/SSD",
     "categoria": "acessórios",
     "preco": 35,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Gabinete externo para transformar um HD ou SSD interno em uma unidade portátil.",
     "disponivel": true
   },
@@ -112,7 +112,7 @@
     "nome": "Adaptador OTG 3.0",
     "categoria": "acessórios",
     "preco": 10,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Adaptador On-The-Go (OTG) para conectar periféricos USB a smartphones e tablets.",
     "disponivel": true
   },
@@ -121,7 +121,7 @@
     "nome": "Adaptador Tipo C para USB",
     "categoria": "acessórios",
     "preco": 10,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Adaptador para conectar dispositivos USB-A em portas USB Tipo-C.",
     "disponivel": true
   },
@@ -130,7 +130,7 @@
     "nome": "HUB USB 2.0 7 Portas",
     "categoria": "acessórios",
     "preco": 25,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Expansor de portas USB 2.0, transformando uma porta em sete.",
     "disponivel": true
   },
@@ -139,7 +139,7 @@
     "nome": "HUB USB 3.0 4 Portas",
     "categoria": "acessórios",
     "preco": 25,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Expansor de portas USB 3.0 de alta velocidade, transformando uma porta em quatro.",
     "disponivel": true
   },
@@ -148,7 +148,7 @@
     "nome": "Caixa de Som T&G",
     "categoria": "acessórios",
     "preco": 90,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Caixa de som portátil Bluetooth para ouvir música em qualquer lugar.",
     "disponivel": true
   },
@@ -157,7 +157,7 @@
     "nome": "Lanterna de Bike 3 Modos",
     "categoria": "outros",
     "preco": 24,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Lanterna para bicicleta com 3 modos de iluminação para segurança noturna.",
     "disponivel": true
   },
@@ -166,7 +166,7 @@
     "nome": "Fone de Ouvido Lenovo GM2 PRO MAX",
     "categoria": "fones",
     "preco": 90,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Versão MAX do fone de ouvido sem fio, com diferenciais no design e bateria.",
     "disponivel": true
   },
@@ -175,7 +175,7 @@
     "nome": "RAM 16GB (2x8GB) Jazer 3200MHz",
     "categoria": "ram",
     "preco": 250,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Kit de memória RAM de 16GB (2 pentes de 8GB) com frequência de 3200MHz para alta performance.",
     "disponivel": false
   },
@@ -184,7 +184,7 @@
     "nome": "Fone KZ EDX PRO (com MIC)",
     "categoria": "fones",
     "preco": 85,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Fone de ouvido intra-auricular com driver dinâmico, focado em qualidade de áudio para músicos e entusiastas.",
     "disponivel": false
   },
@@ -193,7 +193,7 @@
     "nome": "Projetor HY300 Pro Magicubic",
     "categoria": "outros",
     "preco": 270,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Mini projetor portátil para entretenimento em qualquer lugar.",
     "disponivel": false
   },
@@ -202,7 +202,7 @@
     "nome": "SSD 256GB NVME Netac",
     "categoria": "ssd",
     "preco": 160,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Unidade de estado sólido (SSD) padrão NVMe de 256GB para alta velocidade.",
     "disponivel": false
   },
@@ -211,7 +211,7 @@
     "nome": "Kit Chaves de Precisão 115p",
     "categoria": "ferramentas",
     "preco": 60,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Conjunto completo com 115 peças de chaves de precisão para reparo de eletrônicos.",
     "disponivel": false
   },
@@ -220,7 +220,7 @@
     "nome": "SSD 256GB SATA Netac",
     "categoria": "ssd",
     "preco": 150,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Unidade de estado sólido (SSD) padrão SATA de 256GB, ideal para upgrade em notebooks e desktops.",
     "disponivel": false
   },
@@ -229,7 +229,7 @@
     "nome": "Mouse Attack Shark X11",
     "categoria": "mouse",
     "preco": 170,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Mouse gamer de alta performance, disponível nas cores preto e branco.",
     "disponivel": false
   },
@@ -238,7 +238,7 @@
     "nome": "Controle GameSir T4 Nova Lite",
     "categoria": "acessórios",
     "preco": 160,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Controle sem fio compatível com múltiplas plataformas, ideal para jogos.",
     "disponivel": false
   },
@@ -247,7 +247,7 @@
     "nome": "SSD 128GB SATA Netac",
     "categoria": "ssd",
     "preco": 110,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Unidade de estado sólido (SSD) padrão SATA de 128GB para sistema operacional e programas essenciais.",
     "disponivel": false
   },
@@ -256,7 +256,7 @@
     "nome": "Teclado Básico com Fio",
     "categoria": "teclado",
     "preco": 30,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Teclado padrão ABNT2 com conexão USB para uso diário.",
     "disponivel": true
   },
@@ -265,7 +265,7 @@
     "nome": "Mouse Básico com Fio",
     "categoria": "mouse",
     "preco": 19,
-    "imagens": [],
+    "quantidadeImagens": 0,
     "descricao": "Mouse óptico com 3 botões e conexão USB, prático para o dia a dia.",
     "disponivel": true
   }
