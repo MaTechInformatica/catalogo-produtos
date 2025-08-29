@@ -1,47 +1,272 @@
 [
   {
-    "id": 2,
-    "nome": "Mouse Gamer Logitech G Pro",
-    "categoria": "mouse",
-    "preco": 500.0,
-    "imagens": [
-      "img/1.png",
-      "img/2.png",
-      "img/3.png"
-    ],
-    "descricao": "Mouse ultraleve projetado com a ajuda de pro-players. Sensor HERO 25K para máxima precisão e velocidade. Perfeito para jogos competitivos.",
+    "id": 10,
+    "nome": "Fone de Ouvido Lenovo GM2 PRO",
+    "categoria": "fones",
+    "preco": 54,
+    "imagens": [],
+    "descricao": "Fone de ouvido sem fio de baixa latência, ideal para jogos e uso diário.",
     "disponivel": true
   },
   {
-    "id": 3,
-    "nome": "SSD Kingston A400 480GB",
-    "categoria": "ssd",
-    "preco": 280.0,
-    "imagens": [
-      "img/ssd_kingston.jpg",
-      "img/ssd_kingston_detalhe1.jpg"
-    ],
-    "descricao": "Aumente drasticamente a velocidade do seu computador. Com incríveis velocidades de leitura/gravação, o SSD A400 vai melhorar o tempo de inicialização, carregamento de aplicativos e transferência de arquivos.",
+    "id": 11,
+    "nome": "RAM DDR3 2GB",
+    "categoria": "ram",
+    "preco": 0,
+    "imagens": [],
+    "descricao": "Módulo de memória RAM com 2GB de capacidade, padrão DDR3.",
     "disponivel": false
   },
   {
-    "id": 4,
-    "nome": "Memória RAM Corsair Vengeance 8GB DDR4",
-    "categoria": "ram",
-    "preco": 250.9,
-    "imagens": [
-      "img/ram_corsair.jpg"
-    ],
-    "descricao": "Módulo de memória DDR4 de 8GB otimizado para as mais recentes placas-mãe Intel e AMD. Perfeito para dar um upgrade no desempenho do seu PC para jogos e multitarefa.",
+    "id": 12,
+    "nome": "Fone Dapon H02D",
+    "categoria": "fones",
+    "preco": 39,
+    "imagens": [],
+    "descricao": "Fone de ouvido com fio para diversas finalidades.",
     "disponivel": true
   },
   {
-    "id": 5,
-    "nome": "RAM DDR4 8GB",
-    "categoria": "outro",
-    "preco": 45.0,
+    "id": 13,
+    "nome": "SSD Crucial 500GB",
+    "categoria": "ssd",
+    "preco": 147,
     "imagens": [],
-    "descricao": "lorem kak  dsak adsk",
+    "descricao": "Unidade de estado sólido (SSD) com 500GB de armazenamento para upgrade de performance.",
+    "disponivel": true
+  },
+  {
+    "id": 14,
+    "nome": "SSD NVME 512GB Huadisk",
+    "categoria": "ssd",
+    "preco": 127,
+    "imagens": [],
+    "descricao": "Unidade de estado sólido (SSD) padrão NVMe com 512GB para máxima velocidade de leitura e escrita.",
+    "disponivel": true
+  },
+  {
+    "id": 15,
+    "nome": "HD 500GB",
+    "categoria": "hd",
+    "preco": 40,
+    "imagens": [],
+    "descricao": "Disco rígido (HD) com 500GB de capacidade para armazenamento geral de arquivos.",
+    "disponivel": true
+  },
+  {
+    "id": 16,
+    "nome": "Kit Ferramentas Nell 142p",
+    "categoria": "ferramentas",
+    "preco": 40,
+    "imagens": [],
+    "descricao": "Conjunto de ferramentas com 142 peças para manutenção e reparos gerais.",
+    "disponivel": true
+  },
+  {
+    "id": 17,
+    "nome": "Kit Ferramentas Sparta 129p",
+    "categoria": "ferramentas",
+    "preco": 60,
+    "imagens": [],
+    "descricao": "Conjunto de ferramentas Sparta com 129 peças para diversas aplicações.",
+    "disponivel": true
+  },
+  {
+    "id": 18,
+    "nome": "Chave de Precisão 32p",
+    "categoria": "ferramentas",
+    "preco": 15.25,
+    "imagens": [],
+    "descricao": "Jogo de chaves de precisão com 32 pontas, ideal para eletrônicos e pequenos reparos.",
+    "disponivel": true
+  },
+  {
+    "id": 19,
+    "nome": "Filtro de Linha iClamper",
+    "categoria": "acessórios",
+    "preco": 58,
+    "imagens": [],
+    "descricao": "Protetor contra surtos elétricos (DPS) para equipamentos eletrônicos.",
+    "disponivel": true
+  },
+  {
+    "id": 20,
+    "nome": "Adaptador Bluetooth Ugreen 6.0",
+    "categoria": "acessórios",
+    "preco": 4.55,
+    "imagens": [],
+    "descricao": "Adaptador USB para adicionar conectividade Bluetooth 6.0 ao seu computador.",
+    "disponivel": true
+  },
+  {
+    "id": 22,
+    "nome": "Case para HD/SSD",
+    "categoria": "acessórios",
+    "preco": 14,
+    "imagens": [],
+    "descricao": "Gabinete externo para transformar um HD ou SSD interno em uma unidade portátil.",
+    "disponivel": true
+  },
+  {
+    "id": 23,
+    "nome": "Adaptador OTG 3.0",
+    "categoria": "acessórios",
+    "preco": 2.9,
+    "imagens": [],
+    "descricao": "Adaptador On-The-Go (OTG) para conectar periféricos USB a smartphones e tablets.",
+    "disponivel": true
+  },
+  {
+    "id": 24,
+    "nome": "Adaptador Tipo C para USB",
+    "categoria": "acessórios",
+    "preco": 2.9,
+    "imagens": [],
+    "descricao": "Adaptador para conectar dispositivos USB-A em portas USB Tipo-C.",
+    "disponivel": true
+  },
+  {
+    "id": 25,
+    "nome": "HUB USB 2.0 7 Portas",
+    "categoria": "acessórios",
+    "preco": 15.13,
+    "imagens": [],
+    "descricao": "Expansor de portas USB 2.0, transformando uma porta em sete.",
+    "disponivel": true
+  },
+  {
+    "id": 26,
+    "nome": "HUB USB 3.0 4 Portas",
+    "categoria": "acessórios",
+    "preco": 15.13,
+    "imagens": [],
+    "descricao": "Expansor de portas USB 3.0 de alta velocidade, transformando uma porta em quatro.",
+    "disponivel": true
+  },
+  {
+    "id": 27,
+    "nome": "Caixa de Som T&G",
+    "categoria": "acessórios",
+    "preco": 44.9,
+    "imagens": [],
+    "descricao": "Caixa de som portátil Bluetooth para ouvir música em qualquer lugar.",
+    "disponivel": true
+  },
+  {
+    "id": 28,
+    "nome": "Lanterna de Bike 3 Modos",
+    "categoria": "outros",
+    "preco": 12,
+    "imagens": [],
+    "descricao": "Lanterna para bicicleta com 3 modos de iluminação para segurança noturna.",
+    "disponivel": true
+  },
+  {
+    "id": 29,
+    "nome": "Fone de Ouvido Lenovo GM2 PRO MAX",
+    "categoria": "fones",
+    "preco": 22.4,
+    "imagens": [],
+    "descricao": "Versão MAX do fone de ouvido sem fio, com diferenciais no design e bateria.",
+    "disponivel": true
+  },
+  {
+    "id": 30,
+    "nome": "RAM 16GB (2x8GB) Jazer 3200MHz",
+    "categoria": "ram",
+    "preco": 148,
+    "imagens": [],
+    "descricao": "Kit de memória RAM de 16GB (2 pentes de 8GB) com frequência de 3200MHz para alta performance.",
+    "disponivel": false
+  },
+  {
+    "id": 31,
+    "nome": "Fone KZ EDX PRO",
+    "categoria": "fones",
+    "preco": 20.22,
+    "imagens": [],
+    "descricao": "Fone de ouvido intra-auricular com driver dinâmico, focado em qualidade de áudio para músicos e entusiastas.",
+    "disponivel": false
+  },
+  {
+    "id": 32,
+    "nome": "Projetor HY300 Pro Magicubic",
+    "categoria": "outros",
+    "preco": 96,
+    "imagens": [],
+    "descricao": "Mini projetor portátil com sistema inteligente para entretenimento em qualquer lugar.",
+    "disponivel": false
+  },
+  {
+    "id": 33,
+    "nome": "SSD 256GB NVME Netac",
+    "categoria": "ssd",
+    "preco": 65,
+    "imagens": [],
+    "descricao": "Unidade de estado sólido (SSD) padrão NVMe de 256GB para alta velocidade.",
+    "disponivel": false
+  },
+  {
+    "id": 34,
+    "nome": "Kit Chaves de Precisão 115p",
+    "categoria": "ferramentas",
+    "preco": 16,
+    "imagens": [],
+    "descricao": "Conjunto completo com 115 peças de chaves de precisão para reparo de eletrônicos.",
+    "disponivel": false
+  },
+  {
+    "id": 35,
+    "nome": "SSD 256GB SATA Netac",
+    "categoria": "ssd",
+    "preco": 58,
+    "imagens": [],
+    "descricao": "Unidade de estado sólido (SSD) padrão SATA de 256GB, ideal para upgrade em notebooks e desktops.",
+    "disponivel": false
+  },
+  {
+    "id": 36,
+    "nome": "Mouse Attack Shark X11",
+    "categoria": "mouse",
+    "preco": 82.8,
+    "imagens": [],
+    "descricao": "Mouse gamer de alta performance, disponível nas cores preto e branco.",
+    "disponivel": false
+  },
+  {
+    "id": 37,
+    "nome": "Controle GameSir T4 Nova Lite",
+    "categoria": "acessórios",
+    "preco": 75,
+    "imagens": [],
+    "descricao": "Controle sem fio compatível com múltiplas plataformas, ideal para jogos.",
+    "disponivel": false
+  },
+  {
+    "id": 38,
+    "nome": "SSD 128GB SATA Netac",
+    "categoria": "ssd",
+    "preco": 26,
+    "imagens": [],
+    "descricao": "Unidade de estado sólido (SSD) padrão SATA de 128GB para sistema operacional e programas essenciais.",
+    "disponivel": false
+  },
+  {
+    "id": 39,
+    "nome": "Teclado Básico com Fio",
+    "categoria": "teclado",
+    "preco": 15,
+    "imagens": [],
+    "descricao": "Teclado padrão ABNT2 com conexão USB para uso diário.",
+    "disponivel": true
+  },
+  {
+    "id": 40,
+    "nome": "Mouse Básico com Fio",
+    "categoria": "mouse",
+    "preco": 7,
+    "imagens": [],
+    "descricao": "Mouse óptico com 3 botões e conexão USB, prático para o dia a dia.",
     "disponivel": true
   }
 ]
