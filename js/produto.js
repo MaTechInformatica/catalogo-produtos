@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function configurarLinkWhatsApp(produto) {
         const btnWhatsapp = document.getElementById('btn-whatsapp');
-        const seuNumero = '5511999998888'; // !!! SUBSTITUA SEU NÚMERO
+        const seuNumero = '5588996889306'; 
         const nomeProduto = encodeURIComponent(produto.nome);
         const linkProduto = encodeURIComponent(window.location.href);
         const mensagem = `Me interessei por este produto: ${nomeProduto} link: ${linkProduto}`;
