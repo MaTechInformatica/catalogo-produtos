@@ -39,19 +39,25 @@
   },
   {
     "id": 13,
-    "nome": "SSD 500GB Crucial",
+    "nome": "SSD 500GB SATA Crucial",
     "categoria": "ssd",
     "preco": 230,
-    "imagens": [],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756587237/3_ctkmqx.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756587234/1_dlwjae.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756587240/2_blfvaw.png"
+    ],
     "descricao": "Unidade de estado sólido (SSD) com 500GB de armazenamento para upgrade de performance.",
     "disponivel": true
   },
   {
     "id": 14,
-    "nome": "SSD NVME 512GB Huadisk",
+    "nome": "SSD 512GB NVME Huadisk",
     "categoria": "ssd",
     "preco": 230,
-    "imagens": [],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756586958/huadisk_uny4sy.png"
+    ],
     "descricao": "Unidade de estado sólido (SSD) padrão NVMe com 512GB para máxima velocidade de leitura e escrita.",
     "disponivel": true
   },
@@ -60,7 +66,9 @@
     "nome": "HD 500GB",
     "categoria": "hd",
     "preco": 80,
-    "imagens": [],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756588198/1_m57ifv.png"
+    ],
     "descricao": "Disco rígido (HD) com 500GB de capacidade para armazenamento geral de arquivos.",
     "disponivel": true
   },
@@ -69,7 +77,11 @@
     "nome": "Kit Ferramentas Nell 142p",
     "categoria": "ferramentas",
     "preco": 90,
-    "imagens": [],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590223/1_s2wzkc.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590226/3_g1srhd.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590220/2_u65nky.png"
+    ],
     "descricao": "Conjunto de ferramentas com 142 peças para manutenção e reparos gerais.",
     "disponivel": true
   },
@@ -78,17 +90,12 @@
     "nome": "Kit Ferramentas Sparta 129p",
     "categoria": "ferramentas",
     "preco": 100,
-    "imagens": [],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590498/1_zipngw.jpg",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590502/2_thbt3r.jpg",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590506/3_wemfxo.jpg"
+    ],
     "descricao": "Conjunto de ferramentas Sparta com 129 peças para diversas aplicações.",
-    "disponivel": true
-  },
-  {
-    "id": 18,
-    "nome": "Chave de Precisão 32p",
-    "categoria": "ferramentas",
-    "preco": 25,
-    "imagens": [],
-    "descricao": "Jogo de chaves de precisão com 32 pontas, ideal para eletrônicos e pequenos reparos.",
     "disponivel": true
   },
   {
@@ -96,8 +103,11 @@
     "nome": "Filtro de Linha iClamper",
     "categoria": "acessórios",
     "preco": 85,
-    "imagens": [],
-    "descricao": "Protetor contra surtos elétricos (DPS) para equipamentos eletrônicos.",
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590757/1_te6gl4.jpg",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590754/2_pvhnum.jpg"
+    ],
+    "descricao": "Protetor contra surtos elétricos (DPS) para equipamentos eletrônicos, com 5 tomadas.",
     "disponivel": true
   },
   {
@@ -105,16 +115,22 @@
     "nome": "Adaptador Bluetooth Ugreen 6.0",
     "categoria": "acessórios",
     "preco": 40,
-    "imagens": [],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592175/1_ushwqv.avif",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592171/2_amueay.avif"
+    ],
     "descricao": "Adaptador USB para adicionar conectividade Bluetooth 6.0 ao seu computador.",
     "disponivel": true
   },
   {
     "id": 22,
-    "nome": "Case para HD/SSD",
+    "nome": "Case HD/SSD 3.0",
     "categoria": "acessórios",
     "preco": 35,
-    "imagens": [],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592546/1_vrpsn7.jpg",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592543/2_vbv4no.jpg"
+    ],
     "descricao": "Gabinete externo para transformar um HD ou SSD interno em uma unidade portátil.",
     "disponivel": true
   },
@@ -123,7 +139,11 @@
     "nome": "Adaptador OTG 3.0",
     "categoria": "acessórios",
     "preco": 10,
-    "imagens": [],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592718/1_t3133r.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592903/Captura_de_tela_2025-08-30_192753_mscgpq.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592899/Captura_de_tela_2025-08-30_192800_knq5co.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592908/Captura_de_tela_2025-08-30_192806_an2wgr.png"],
     "descricao": "Adaptador On-The-Go (OTG) para conectar periféricos USB a smartphones e tablets.",
     "disponivel": true
   },
@@ -132,26 +152,29 @@
     "nome": "Adaptador Tipo C para USB",
     "categoria": "acessórios",
     "preco": 10,
-    "imagens": [],
+    "imagens": [
+    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756593169/1_czs2gl.png",
+    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756593164/2_hxoedv.png",
+    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756593174/3_ujkixo.png"],
     "descricao": "Adaptador para conectar dispositivos USB-A em portas USB Tipo-C.",
     "disponivel": true
   },
   {
     "id": 25,
-    "nome": "HUB USB 2.0 7 Portas",
+    "nome": "HUB USB 7 Portas",
     "categoria": "acessórios",
     "preco": 25,
-    "imagens": [],
-    "descricao": "Expansor de portas USB 2.0, transformando uma porta em sete.",
+    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594170/1_fuudt7.png"],
+    "descricao": "Expansor de portas USB, transformando uma porta em sete.",
     "disponivel": true
   },
   {
     "id": 26,
-    "nome": "HUB USB 3.0 4 Portas",
+    "nome": "HUB USB 4 Portas",
     "categoria": "acessórios",
     "preco": 25,
-    "imagens": [],
-    "descricao": "Expansor de portas USB 3.0 de alta velocidade, transformando uma porta em quatro.",
+    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594237/1_hdrb6c.jpg"],
+    "descricao": "Expansor de portas USB, transformando uma porta em quatro.",
     "disponivel": true
   },
   {
@@ -159,7 +182,10 @@
     "nome": "Caixa de Som T&G",
     "categoria": "acessórios",
     "preco": 90,
-    "imagens": [],
+    "imagens": [
+    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594503/1_zm32pn.png",
+    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594509/2_oj69zb.png",
+    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594498/3_gksro4.png"],
     "descricao": "Caixa de som portátil Bluetooth para ouvir música em qualquer lugar.",
     "disponivel": true
   },
@@ -168,7 +194,9 @@
     "nome": "Lanterna de Bike 3 Modos",
     "categoria": "outros",
     "preco": 24,
-    "imagens": [],
+    "imagens": [
+    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594704/1_vaqvqx.png",
+    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594709/2_gqnndk.png"],
     "descricao": "Lanterna para bicicleta com 3 modos de iluminação para segurança noturna.",
     "disponivel": true
   },
@@ -177,18 +205,14 @@
     "nome": "Fone de Ouvido Lenovo GM2 PRO MAX",
     "categoria": "fones",
     "preco": 90,
-    "imagens": [],
-    "descricao": "Versão MAX do fone de ouvido sem fio, com diferenciais no design e bateria.",
+    "imagens": [
+    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595003/1_ba8gbw.png",
+    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595005/4_zl5fn5.jpg",
+    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595002/5_x5uiwk.jpg",
+    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595004/3_hazydl.jpg",
+    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595003/6_ppsdfj.jpg"],
+    "descricao": "Versão MAX do fone de ouvido sem fio, com diferenciais no design e um LED de porcentagem da bateria. Disponível nas cores <strong>preto</strong> e <strong>branco</strong>.",
     "disponivel": true
-  },
-  {
-    "id": 30,
-    "nome": "RAM 16GB (2x8GB) Jazer 3200MHz",
-    "categoria": "ram",
-    "preco": 250,
-    "imagens": [],
-    "descricao": "Kit de memória RAM de 16GB (2 pentes de 8GB) com frequência de 3200MHz para alta performance.",
-    "disponivel": false
   },
   {
     "id": 31,
@@ -264,16 +288,18 @@
   },
   {
     "id": 39,
-    "nome": "Teclado Básico com Fio",
+    "nome": "Teclado com Fio",
     "categoria": "teclado",
-    "preco": 30,
-    "imagens": [],
+    "preco": 35,
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595764/1_pvuftn.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595766/3_sovv3l.png"],
     "descricao": "Teclado padrão ABNT2 com conexão USB para uso diário.",
     "disponivel": true
   },
   {
     "id": 40,
-    "nome": "Mouse Básico com Fio",
+    "nome": "Mouse com Fio",
     "categoria": "mouse",
     "preco": 19,
     "imagens": [],
@@ -285,7 +311,9 @@
     "nome": "RAM 8GB DDR5",
     "categoria": "ram",
     "preco": 230.0,
-    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1756584837/Captura_de_tela_2025-08-30_171313_l9aouk.png"],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756584837/Captura_de_tela_2025-08-30_171313_l9aouk.png"
+    ],
     "descricao": "Módulo de memória RAM de 8GB, padrão DDR5 SODIMM com frequência de 5600MHz. Ideal para notebooks modernos.",
     "disponivel": true
   },
@@ -327,16 +355,18 @@
     "nome": "HD 500GB 3.5 polegadas",
     "categoria": "hd",
     "preco": 60.0,
-    "imagens": [],
+    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595653/3.5_polegadas_wxc0nz.jpg"],
     "descricao": "Disco rígido (HD) de 500GB, formato 3.5 polegadas para desktops.",
     "disponivel": true
   },
   {
     "id": 46,
-    "nome": "RAM 8GB DDR4",
+    "nome": "RAM 8GB DDR4 Fury",
     "categoria": "ram",
     "preco": 125.0,
-    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1756584705/ddr4_yg1eux.png"],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590031/fury_ddr4_d9p3mq.png"
+    ],
     "descricao": "Módulo de memória RAM de 8GB, padrão DDR4 SODIMM com frequência de 2666Mhz. (Estoque de terceiros).",
     "disponivel": true
   },
@@ -345,7 +375,9 @@
     "nome": "RAM 4GB DDR4",
     "categoria": "ram",
     "preco": 70.0,
-    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1756584705/ddr4_yg1eux.png"],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756584705/ddr4_yg1eux.png"
+    ],
     "descricao": "Módulo de memória RAM de 4GB, padrão DDR4 SODIMM. (Estoque de terceiros).",
     "disponivel": true
   },
@@ -354,7 +386,9 @@
     "nome": "HD 320GB",
     "categoria": "hd",
     "preco": 50.0,
-    "imagens": [],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756588301/320gb_aoxuhf.png"
+    ],
     "descricao": "Disco rígido (HD) com 320GB de capacidade. (Estoque de terceiros).",
     "disponivel": true
   },
