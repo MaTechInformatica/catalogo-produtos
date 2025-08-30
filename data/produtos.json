@@ -302,7 +302,9 @@
     "nome": "Mouse com Fio",
     "categoria": "mouse",
     "preco": 19,
-    "imagens": [],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595895/2_atptbh.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595897/4_akmsp9.png"],
     "descricao": "Mouse óptico com 3 botões e conexão USB, prático para o dia a dia.",
     "disponivel": true
   },
@@ -397,7 +399,7 @@
     "nome": "SSD 256GB NVME (usado)",
     "categoria": "ssd",
     "preco": 120.0,
-    "imagens": [],
+    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1756596176/256gb-usado_ltwcha.png"],
     "descricao": "Unidade de estado sólido (SSD) NVMe de 256GB. Produto usado. (Estoque de terceiros).",
     "disponivel": true
   },
@@ -406,7 +408,9 @@
     "nome": "SSD 256GB NVME 2230 (usado)",
     "categoria": "ssd",
     "preco": 100.0,
-    "imagens": [],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756596057/2_clfait.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756596057/2_clfait.png"],
     "descricao": "Unidade de estado sólido (SSD) NVMe de 256GB, formato compacto 2230. Produto usado. (Estoque de terceiros).",
     "disponivel": true
   }
