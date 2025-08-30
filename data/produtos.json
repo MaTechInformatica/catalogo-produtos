@@ -4,18 +4,21 @@
     "nome": "Fone de Ouvido Lenovo GM2 PRO",
     "categoria": "fones",
     "preco": 99,
-    "imagens": ["https://m.media-amazon.com/images/I/51yW0SNPnLL._AC_SX679_.jpg",
-               "https://m.media-amazon.com/images/I/71nu0vKpLkL._AC_SX679_.jpg",
-               "https://m.media-amazon.com/images/I/71QYP7eJP5L._AC_SL1500_.jpg"],
-    "descricao": "Fone de ouvido sem fio de baixa latência, ideal para jogos e uso diário.",
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756579147/1_tfpuj0.jpg",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756579829/4_q1fuhn.jpg",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756579843/5_vbacru.jpg",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756579803/3_woixv3.jpg"
+    ],
+    "descricao": "Fone de ouvido sem fio de baixa latência, ideal para jogos e uso diário. Disponível nas cores <strong>preto</strong> e <strong>branco</strong>.",
     "disponivel": true
   },
   {
     "id": 11,
-    "nome": "RAM DDR3 2GB",
+    "nome": "RAM 2GB DDR3",
     "categoria": "ram",
     "preco": 15,
-    "imagens": [],
+    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1756580899/1_r5pj50.png"],
     "descricao": "Módulo de memória RAM com 2GB de capacidade, padrão DDR3.",
     "disponivel": false
   },
@@ -30,7 +33,7 @@
   },
   {
     "id": 13,
-    "nome": "SSD Crucial 500GB",
+    "nome": "SSD 500GB Crucial",
     "categoria": "ssd",
     "preco": 230,
     "imagens": [],

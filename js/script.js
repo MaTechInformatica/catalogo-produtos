@@ -67,22 +67,30 @@ document.addEventListener('DOMContentLoaded', () => {
             const temImagens = produto.imagens && produto.imagens.length > 0;
             const imagemPrincipal = temImagens ? produto.imagens[0] : 'https://via.placeholder.com/400x300?text=Sem+Imagem';
 
-            const cardProduto = `
-                <div class="col-12 col-md-6 col-lg-4">
-                    <div class="card h-100">
-                        <img src="${imagemPrincipal}" class="card-img-top" alt="${produto.nome}">
-                        <div class="card-body d-flex flex-column">
-                            <h5 class="card-title">${produto.nome}</h5>
-                            <p class="card-text">Categoria: <span class="badge bg-secondary">${produto.categoria}</span></p>
-                            ${!produto.disponivel ? '<p class="card-text"><span class="badge bg-danger">Esgotado</span></p>' : ''}
-                            <h6 class="card-subtitle mb-2 mt-auto">R$ ${produto.preco.toFixed(2).replace('.', ',')}</h6>
-                            <a href="produto.html?id=${produto.id}" class="btn btn-primary">Ver detalhes</a>
-                        </div>
-                    </div>
+    const cardProduto = `
+        <div class="col-12 col-md-6 col-lg-4 mb-4">
+            <div class="card h-100 card-produto card-clickable">
+                <img src="${imagemPrincipal}" class="card-img-top" alt="${produto.nome}">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title">
+                        <a href="produto.html?id=${produto.id}" class="stretched-link text-decoration-none text-dark">
+                            ${produto.nome}
+                        </a>
+                    </h5>
+                    <p class="card-text mb-2">
+                        <span class="badge bg-secondary">${produto.categoria}</span>
+                    </p>
+                    ${!produto.disponivel ? '<p class="card-text"><span class="badge bg-danger">Esgotado</span></p>' : ''}
+                    
+                    <h6 class="card-subtitle mt-auto mb-2 text-muted">
+                        R$ ${produto.preco.toFixed(2).replace('.', ',')}
+                    </h6>
                 </div>
-            `;
-            vitrineProdutos.innerHTML += cardProduto;
-        });
+            </div>
+        </div>
+    `;
+    vitrineProdutos.innerHTML += cardProduto;
+});
     }
 
     switchDisponibilidade.addEventListener('change', (e) => {
