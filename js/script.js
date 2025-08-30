@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const imagemPrincipal = temImagens ? produto.imagens[0] : 'https://via.placeholder.com/400x300?text=Sem+Imagem';
 
     const cardProduto = `
-        <div class="col-12 col-md-6 col-lg-4 mb-0 mb-md-4">
+        <div class="col-12 col-md-6 col-lg-4 mb-md-4">
             <div class="card h-100 card-produto card-clickable">
                 <img src="${imagemPrincipal}" class="card-img-top" alt="${produto.nome}">
                 <div class="card-body d-flex flex-column">
