@@ -8,16 +8,6 @@ document.addEventListener('DOMContentLoaded', () => {
     let filtroCategoriaAtual = 'todos';
     let termoBuscaAtual = '';
 
-    // Função para criar um nome de pasta/URL seguro (slug)
-    function criarSlug(texto) {
-        return texto.toString().toLowerCase()
-            .replace(/\s+/g, '-')           // Substitui espaços por -
-            .replace(/[^\w\-]+/g, '')       // Remove caracteres inválidos
-            .replace(/\-\-+/g, '-')         // Substitui múltiplos - por um único -
-            .replace(/^-+/, '')             // Remove - do início
-            .replace(/-+$/, '');            // Remove - do fim
-    }
-
     async function carregarProdutos() {
         try {
             const response = await fetch('data/produtos.json');
@@ -74,9 +64,8 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
         produtos.forEach(produto => {
-            const slug = criarSlug(produto.nome);
-            const temImagens = produto.quantidadeImagens && produto.quantidadeImagens > 0;
-            const imagemPrincipal = temImagens ? `./img/${produto.categoria}/${slug}/1.jpg` : 'https://via.placeholder.com/400x300?text=Sem+Imagem';
+            const temImagens = produto.imagens && produto.imagens.length > 0;
+            const imagemPrincipal = temImagens ? produto.imagens[0] : 'https://via.placeholder.com/400x300?text=Sem+Imagem';
 
             const cardProduto = `
                 <div class="col-12 col-md-6 col-lg-4">

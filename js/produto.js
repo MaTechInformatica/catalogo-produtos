@@ -3,16 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const params = new URLSearchParams(window.location.search);
     const produtoId = params.get('id');
 
-    // Função para criar um nome de pasta/URL seguro (slug)
-    function criarSlug(texto) {
-        return texto.toString().toLowerCase()
-            .replace(/\s+/g, '-')           // Substitui espaços por -
-            .replace(/[^\w\-]+/g, '')       // Remove caracteres inválidos
-            .replace(/\-\-+/g, '-')         // Substitui múltiplos - por um único -
-            .replace(/^-+/, '')             // Remove - do início
-            .replace(/-+$/, '');            // Remove - do fim
-    }
-
     if (!produtoId) {
         detalhesProdutoDiv.innerHTML = '<p class="text-danger text-center">Produto não encontrado.</p>';
         return;
@@ -35,18 +25,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function renderizarDetalhes(produto) {
         document.title = produto.nome;
-        const slug = criarSlug(produto.nome);
-        const basePath = `./img/${produto.categoria}/${slug}/`;
         
         let carouselIndicators = '';
         let carouselInner = '';
 
-        if (produto.quantidadeImagens && produto.quantidadeImagens > 0) {
-            for (let i = 1; i <= produto.quantidadeImagens; i++) {
-                const imageUrl = `${basePath}${i}.jpg`;
-                carouselIndicators += `<button type="button" data-bs-target="#carouselProduto" data-bs-slide-to="${i - 1}" class="${i === 1 ? 'active' : ''}" aria-current="${i === 1 ? 'true' : 'false'}" aria-label="Slide ${i}"></button>`;
-                carouselInner += `<div class="carousel-item ${i === 1 ? 'active' : ''}"><img src="${imageUrl}" class="d-block w-100" alt="${produto.nome} - Imagem ${i}"></div>`;
-            }
+        if (produto.imagens && produto.imagens.length > 0) {
+            produto.imagens.forEach((imageUrl, index) => {
+                carouselIndicators += `<button type="button" data-bs-target="#carouselProduto" data-bs-slide-to="${index}" class="${index === 0 ? 'active' : ''}"></button>`;
+                carouselInner += `<div class="carousel-item ${index === 0 ? 'active' : ''}"><img src="${imageUrl}" class="d-block w-100" alt="${produto.nome} - Imagem ${index + 1}"></div>`;
+            });
         } else {
             carouselInner = `<div class="carousel-item active"><img src="https://via.placeholder.com/600x400?text=Sem+Imagem" class="d-block w-100" alt="Sem Imagem"></div>`;
         }
@@ -75,10 +62,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function configurarLinkWhatsApp(produto) {
         const btnWhatsapp = document.getElementById('btn-whatsapp');
-        const seuNumero = '5588996889306'; 
+        const seuNumero = '5588996889306';
         const nomeProduto = encodeURIComponent(produto.nome);
         const linkProduto = encodeURIComponent(window.location.href);
-        const mensagem = `Me interessei por este produto: ${nomeProduto} link: ${linkProduto}`;
+        const mensagem = `Me interessei por este produto: ${nomeProduto}.\n link: ${linkProduto}`;
         const urlWhatsapp = `https://wa.me/${seuNumero}?text=${mensagem}`;
         btnWhatsapp.href = urlWhatsapp;
         if (!produto.disponivel) {
