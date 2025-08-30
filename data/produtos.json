@@ -18,16 +18,22 @@
     "nome": "RAM 2GB DDR3",
     "categoria": "ram",
     "preco": 15,
-    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1756580899/1_r5pj50.png"],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756580899/1_r5pj50.png"
+    ],
     "descricao": "Módulo de memória RAM com 2GB de capacidade, padrão DDR3.",
-    "disponivel": false
+    "disponivel": true
   },
   {
     "id": 12,
     "nome": "Fone Dapon H02D",
     "categoria": "fones",
     "preco": 85,
-    "imagens": [],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756582318/1_pegtto.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756582321/2_cvttmm.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756582319/3_ayp0jt.png"
+    ],
     "descricao": "Fone de ouvido com fio para diversas finalidades.",
     "disponivel": true
   },
@@ -272,6 +278,102 @@
     "preco": 19,
     "imagens": [],
     "descricao": "Mouse óptico com 3 botões e conexão USB, prático para o dia a dia.",
+    "disponivel": true
+  },
+  {
+    "id": 41,
+    "nome": "RAM 8GB DDR5",
+    "categoria": "ram",
+    "preco": 230.0,
+    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1756584837/Captura_de_tela_2025-08-30_171313_l9aouk.png"],
+    "descricao": "Módulo de memória RAM de 8GB, padrão DDR5 SODIMM com frequência de 5600MHz. Ideal para notebooks modernos.",
+    "disponivel": true
+  },
+  {
+    "id": 42,
+    "nome": "RAM 2GB DDR3L",
+    "categoria": "ram",
+    "preco": 25.0,
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756580899/1_r5pj50.png"
+    ],
+    "descricao": "Módulo de memória RAM de 2GB, padrão DDR3L SODIMM. Ideal para notebooks mais antigos.",
+    "disponivel": true
+  },
+  {
+    "id": 43,
+    "nome": "RAM 1GB DDR3",
+    "categoria": "ram",
+    "preco": 15.0,
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756580899/1_r5pj50.png"
+    ],
+    "descricao": "Módulo de memória RAM de 1GB, padrão DDR3 SODIMM.",
+    "disponivel": true
+  },
+  {
+    "id": 44,
+    "nome": "Cabo HDMI 2.0 4K HDR 19P 2M Pix Gold",
+    "categoria": "acessórios",
+    "preco": 25.0,
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756583857/1_anzifn.jpg"
+    ],
+    "descricao": "Cabo HDMI de 2 metros, versão 2.0. Suporta resolução 4K, tecnologia HDR e possui conector de 19 pinos. Marca Pix, linha Gold. Cor: Preto.",
+    "disponivel": true
+  },
+  {
+    "id": 45,
+    "nome": "HD 500GB 3.5 polegadas",
+    "categoria": "hd",
+    "preco": 60.0,
+    "imagens": [],
+    "descricao": "Disco rígido (HD) de 500GB, formato 3.5 polegadas para desktops.",
+    "disponivel": true
+  },
+  {
+    "id": 46,
+    "nome": "RAM 8GB DDR4",
+    "categoria": "ram",
+    "preco": 125.0,
+    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1756584705/ddr4_yg1eux.png"],
+    "descricao": "Módulo de memória RAM de 8GB, padrão DDR4 SODIMM com frequência de 2666Mhz. (Estoque de terceiros).",
+    "disponivel": true
+  },
+  {
+    "id": 47,
+    "nome": "RAM 4GB DDR4",
+    "categoria": "ram",
+    "preco": 70.0,
+    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1756584705/ddr4_yg1eux.png"],
+    "descricao": "Módulo de memória RAM de 4GB, padrão DDR4 SODIMM. (Estoque de terceiros).",
+    "disponivel": true
+  },
+  {
+    "id": 48,
+    "nome": "HD 320GB",
+    "categoria": "hd",
+    "preco": 50.0,
+    "imagens": [],
+    "descricao": "Disco rígido (HD) com 320GB de capacidade. (Estoque de terceiros).",
+    "disponivel": true
+  },
+  {
+    "id": 49,
+    "nome": "SSD 256GB NVME (usado)",
+    "categoria": "ssd",
+    "preco": 120.0,
+    "imagens": [],
+    "descricao": "Unidade de estado sólido (SSD) NVMe de 256GB. Produto usado. (Estoque de terceiros).",
+    "disponivel": true
+  },
+  {
+    "id": 50,
+    "nome": "SSD 256GB NVME 2230 (usado)",
+    "categoria": "ssd",
+    "preco": 100.0,
+    "imagens": [],
+    "descricao": "Unidade de estado sólido (SSD) NVMe de 256GB, formato compacto 2230. Produto usado. (Estoque de terceiros).",
     "disponivel": true
   }
 ]
