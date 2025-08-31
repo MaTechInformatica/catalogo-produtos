@@ -34,7 +34,7 @@
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756582321/2_cvttmm.png",
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756582319/3_ayp0jt.png"
     ],
-    "descricao": "Fone de ouvido com fio para diversas finalidades.",
+    "descricao": "Fone de ouvido sem fio para diversas finalidades.",
     "disponivel": true
   },
   {
@@ -47,7 +47,7 @@
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756587234/1_dlwjae.png",
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756587240/2_blfvaw.png"
     ],
-    "descricao": "Unidade de estado sólido (SSD) com 500GB de armazenamento para upgrade de performance.",
+    "descricao": "Unidade de estado sólido (SSD) padrão SATA com 500GB de armazenamento para upgrade de performance.",
     "disponivel": true
   },
   {
@@ -101,7 +101,7 @@
     "id": 19,
     "nome": "Filtro de Linha iClamper",
     "categoria": "acessórios",
-    "preco": 85,
+    "preco": 79,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590757/1_te6gl4.jpg",
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590754/2_pvhnum.jpg"
