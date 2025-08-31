@@ -142,7 +142,8 @@
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592718/1_t3133r.png",
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592903/Captura_de_tela_2025-08-30_192753_mscgpq.png",
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592899/Captura_de_tela_2025-08-30_192800_knq5co.png",
-      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592908/Captura_de_tela_2025-08-30_192806_an2wgr.png"],
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592908/Captura_de_tela_2025-08-30_192806_an2wgr.png"
+    ],
     "descricao": "Adaptador On-The-Go (OTG) para conectar periféricos USB a smartphones e tablets.",
     "disponivel": true
   },
@@ -152,9 +153,10 @@
     "categoria": "acessórios",
     "preco": 10,
     "imagens": [
-    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756593169/1_czs2gl.png",
-    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756593164/2_hxoedv.png",
-    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756593174/3_ujkixo.png"],
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756593169/1_czs2gl.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756593164/2_hxoedv.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756593174/3_ujkixo.png"
+    ],
     "descricao": "Adaptador para conectar dispositivos USB-A em portas USB Tipo-C.",
     "disponivel": true
   },
@@ -163,7 +165,9 @@
     "nome": "HUB USB 7 Portas",
     "categoria": "acessórios",
     "preco": 25,
-    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594170/1_fuudt7.png"],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594170/1_fuudt7.png"
+    ],
     "descricao": "Expansor de portas USB, transformando uma porta em sete.",
     "disponivel": true
   },
@@ -172,7 +176,9 @@
     "nome": "HUB USB 4 Portas",
     "categoria": "acessórios",
     "preco": 25,
-    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594237/1_hdrb6c.jpg"],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594237/1_hdrb6c.jpg"
+    ],
     "descricao": "Expansor de portas USB, transformando uma porta em quatro.",
     "disponivel": true
   },
@@ -182,9 +188,10 @@
     "categoria": "acessórios",
     "preco": 90,
     "imagens": [
-    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594503/1_zm32pn.png",
-    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594509/2_oj69zb.png",
-    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594498/3_gksro4.png"],
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594503/1_zm32pn.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594509/2_oj69zb.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594498/3_gksro4.png"
+    ],
     "descricao": "Caixa de som portátil Bluetooth para ouvir música em qualquer lugar.",
     "disponivel": true
   },
@@ -194,8 +201,9 @@
     "categoria": "outros",
     "preco": 24,
     "imagens": [
-    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594704/1_vaqvqx.png",
-    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594709/2_gqnndk.png"],
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594704/1_vaqvqx.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594709/2_gqnndk.png"
+    ],
     "descricao": "Lanterna para bicicleta com 3 modos de iluminação para segurança noturna.",
     "disponivel": true
   },
@@ -205,11 +213,12 @@
     "categoria": "fones",
     "preco": 90,
     "imagens": [
-    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595003/1_ba8gbw.png",
-    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595005/4_zl5fn5.jpg",
-    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595002/5_x5uiwk.jpg",
-    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595004/3_hazydl.jpg",
-    "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595003/6_ppsdfj.jpg"],
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595003/1_ba8gbw.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595005/4_zl5fn5.jpg",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595002/5_x5uiwk.jpg",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595004/3_hazydl.jpg",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595003/6_ppsdfj.jpg"
+    ],
     "descricao": "Versão MAX do fone de ouvido sem fio, com diferenciais no design e um LED de porcentagem da bateria. Disponível nas cores <strong>preto</strong> e <strong>branco</strong>.",
     "disponivel": true
   },
@@ -292,7 +301,8 @@
     "preco": 35,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595764/1_pvuftn.png",
-      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595766/3_sovv3l.png"],
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595766/3_sovv3l.png"
+    ],
     "descricao": "Teclado padrão ABNT2 com conexão USB para uso diário.",
     "disponivel": true
   },
@@ -303,7 +313,8 @@
     "preco": 19,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595895/2_atptbh.png",
-      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595897/4_akmsp9.png"],
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595897/4_akmsp9.png"
+    ],
     "descricao": "Mouse óptico com 3 botões e conexão USB, prático para o dia a dia.",
     "disponivel": true
   },
@@ -356,7 +367,9 @@
     "nome": "HD 500GB 3.5 polegadas",
     "categoria": "hd",
     "preco": 60.0,
-    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595653/3.5_polegadas_wxc0nz.jpg"],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595653/3.5_polegadas_wxc0nz.jpg"
+    ],
     "descricao": "Disco rígido (HD) de 500GB, formato 3.5 polegadas para desktops.",
     "disponivel": true
   },
@@ -398,7 +411,9 @@
     "nome": "SSD 256GB NVME (usado)",
     "categoria": "ssd",
     "preco": 120.0,
-    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1756596176/256gb-usado_ltwcha.png"],
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756596176/256gb-usado_ltwcha.png"
+    ],
     "descricao": "Unidade de estado sólido (SSD) NVMe de 256GB. Produto usado. (Estoque de terceiros).",
     "disponivel": true
   },
@@ -409,7 +424,8 @@
     "preco": 100.0,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756596057/2_clfait.png",
-      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756596057/2_clfait.png"],
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756596057/2_clfait.png"
+    ],
     "descricao": "Unidade de estado sólido (SSD) NVMe de 256GB, formato compacto 2230. Produto usado. (Estoque de terceiros).",
     "disponivel": true
   }
