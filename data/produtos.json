@@ -229,7 +229,7 @@
     "preco": 85,
     "imagens": [],
     "descricao": "Fone de ouvido intra-auricular com driver dinâmico, focado em qualidade de áudio para músicos e entusiastas.",
-    "disponivel": false
+    "disponivel": true
   },
   {
     "id": 32,
@@ -238,7 +238,7 @@
     "preco": 270,
     "imagens": [],
     "descricao": "Mini projetor portátil para entretenimento em qualquer lugar.",
-    "disponivel": false
+    "disponivel": true
   },
   {
     "id": 33,
@@ -247,7 +247,7 @@
     "preco": 160,
     "imagens": [],
     "descricao": "Unidade de estado sólido (SSD) padrão NVMe de 256GB para alta velocidade.",
-    "disponivel": false
+    "disponivel": true
   },
   {
     "id": 34,
@@ -256,7 +256,7 @@
     "preco": 60,
     "imagens": [],
     "descricao": "Conjunto completo com 115 peças de chaves de precisão para reparo de eletrônicos.",
-    "disponivel": false
+    "disponivel": true
   },
   {
     "id": 35,
@@ -265,7 +265,7 @@
     "preco": 150,
     "imagens": [],
     "descricao": "Unidade de estado sólido (SSD) padrão SATA de 256GB, ideal para upgrade em notebooks e desktops.",
-    "disponivel": false
+    "disponivel": true
   },
   {
     "id": 36,
@@ -274,7 +274,7 @@
     "preco": 170,
     "imagens": [],
     "descricao": "Mouse gamer de alta performance, disponível nas cores preto e branco.",
-    "disponivel": false
+    "disponivel": true
   },
   {
     "id": 37,
@@ -283,7 +283,7 @@
     "preco": 160,
     "imagens": [],
     "descricao": "Controle sem fio compatível com múltiplas plataformas, ideal para jogos.",
-    "disponivel": false
+    "disponivel": true
   },
   {
     "id": 38,
