@@ -435,5 +435,38 @@
     ],
     "descricao": "Unidade de estado sólido (SSD) NVMe de 256GB, formato compacto 2230. Produto usado. (Estoque de terceiros).",
     "disponivel": true
+  },
+  {
+    "id": 51,
+    "nome": "Pendrive SanDisk 64GB",
+    "categoria": "outros",
+    "preco": 40.0,
+    "imagens": [
+      
+    ],
+    "descricao": "Pendrive de 64GB para armazenar seus arquivos.",
+    "disponivel": true
+  },
+  {
+    "id": 52,
+    "nome": "Teclado Gamer RGB",
+    "categoria": "teclado",
+    "preco": 45.0,
+    "imagens": [
+      
+    ],
+    "descricao": "Teclado Gamer RGB com fio para melhorar seu setup..",
+    "disponivel": true
+  },
+  {
+    "id": 52,
+    "nome": "Mouse Gamer RGB",
+    "categoria": "mouse",
+    "preco": 49.0,
+    "imagens": [
+      
+    ],
+    "descricao": "Mouse Gamer RGB com fio para melhorar seu setup..",
+    "disponivel": true
   }
 ]
