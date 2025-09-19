@@ -3,7 +3,7 @@
     "id": 10,
     "nome": "Fone de Ouvido Lenovo GM2 PRO",
     "categoria": "fones",
-    "preco": 90,
+    "preco": 80,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756579147/1_tfpuj0.jpg",
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756579829/4_q1fuhn.jpg",
@@ -17,7 +17,7 @@
     "id": 11,
     "nome": "RAM 2GB DDR3",
     "categoria": "ram",
-    "preco": 15,
+    "preco": 20,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756580899/1_r5pj50.png"
     ],
@@ -35,7 +35,7 @@
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756582319/3_ayp0jt.png"
     ],
     "descricao": "Fone de ouvido sem fio para diversas finalidades.",
-    "disponivel": true
+    "disponivel": false
   },
   {
     "id": 13,
@@ -48,15 +48,15 @@
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756587240/2_blfvaw.png"
     ],
     "descricao": "Unidade de estado sólido (SSD) padrão SATA com 500GB de armazenamento para upgrade de performance.",
-    "disponivel": true
+    "disponivel": false
   },
   {
     "id": 14,
-    "nome": "SSD 512GB NVME Huadisk",
+    "nome": "SSD 512GB NVME SanDisk",
     "categoria": "ssd",
     "preco": 230,
     "imagens": [
-      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756586958/huadisk_uny4sy.png"
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240995/D_NQ_NP_2X_600746-MLU74496620395_022024-F_g47gnh.webp"
     ],
     "descricao": "Unidade de estado sólido (SSD) padrão NVMe com 512GB para máxima velocidade de leitura e escrita.",
     "disponivel": true
@@ -76,7 +76,7 @@
     "id": 16,
     "nome": "Kit Ferramentas Nell 142p",
     "categoria": "ferramentas",
-    "preco": 90,
+    "preco": 99,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590223/1_s2wzkc.png",
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590226/3_g1srhd.png"
@@ -95,7 +95,7 @@
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590506/3_wemfxo.jpg"
     ],
     "descricao": "Conjunto de ferramentas Sparta com 129 peças para diversas aplicações.",
-    "disponivel": true
+    "disponivel": false
   },
   {
     "id": 19,
@@ -113,7 +113,7 @@
     "id": 20,
     "nome": "Adaptador Bluetooth Ugreen 6.0",
     "categoria": "acessórios",
-    "preco": 40,
+    "preco": 35,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592175/1_ushwqv.avif",
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592171/2_amueay.avif"
@@ -125,7 +125,7 @@
     "id": 22,
     "nome": "Case HD/SSD 3.0",
     "categoria": "acessórios",
-    "preco": 35,
+    "preco": 30,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592546/1_vrpsn7.jpg",
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592543/2_vbv4no.jpg"
@@ -164,7 +164,7 @@
     "id": 25,
     "nome": "HUB USB 7 Portas",
     "categoria": "acessórios",
-    "preco": 25,
+    "preco": 26,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594170/1_fuudt7.png"
     ],
@@ -175,7 +175,7 @@
     "id": 26,
     "nome": "HUB USB 4 Portas",
     "categoria": "acessórios",
-    "preco": 25,
+    "preco": 22,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594237/1_hdrb6c.jpg"
     ],
@@ -186,7 +186,7 @@
     "id": 27,
     "nome": "Caixa de Som T&G",
     "categoria": "acessórios",
-    "preco": 90,
+    "preco": 85,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594503/1_zm32pn.png",
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594509/2_oj69zb.png",
@@ -235,28 +235,31 @@
     "id": 32,
     "nome": "Projetor HY300 Pro Magicubic",
     "categoria": "outros",
-    "preco": 270,
-    "imagens": [],
+    "preco": 260,
+    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240017/projetor_eheoos.webp",
+                "https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240017/img_8366-rz04z1ip41_qrbytx.webp"],
     "descricao": "Mini projetor portátil para entretenimento em qualquer lugar.",
-    "disponivel": false
+    "disponivel": true
   },
   {
     "id": 33,
     "nome": "SSD 256GB NVME Netac",
     "categoria": "ssd",
     "preco": 160,
-    "imagens": [],
+    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240277/S47ca5cbdfcb643ad99bc6c84e1deebbaA.jpg_720x720q75.jpg__fbrtf9.avif"],
     "descricao": "Unidade de estado sólido (SSD) padrão NVMe de 256GB para alta velocidade.",
-    "disponivel": false
+    "disponivel": true
   },
   {
     "id": 34,
     "nome": "Kit Chaves de Precisão 115p",
     "categoria": "ferramentas",
     "preco": 60,
-    "imagens": [],
+    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240450/Sd887e2c558354bfb8c23c1e6c259f8b9t.jpg_720x720q75.jpg__wrzwg3.avif",
+              "https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240449/images_r9dwks.jpg",
+              "https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240448/031ea64f7b9ad8abf2be059aa2b78dd8_xx3avu.webp"],
     "descricao": "Conjunto completo com 115 peças de chaves de precisão para reparo de eletrônicos.",
-    "disponivel": false
+    "disponivel": true
   },
   {
     "id": 35,
@@ -269,21 +272,25 @@
   },
   {
     "id": 36,
-    "nome": "Mouse Attack Shark X11",
+    "nome": "Mouse Attack Shark X11 + Dock de Carregamento",
     "categoria": "mouse",
     "preco": 170,
-    "imagens": [],
+    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240618/S5c61b8949d484372bb025adcccd16336m.jpg_720x720q75.jpg__lh9utg.avif",
+              "https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240617/Mouse-Wireless-Gamer-Attack-Shark-X11-Com-Doc-De-Carregamento-Magn-tica-RGB_1750442083_ex0wc4.webp",
+              "https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240616/D_NQ_NP_2X_948417-MLA91935059881_092025-F_vusbbt.webp",
+              "https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240614/2edbb65c68fba0768d0ed1eaa0028d35_jqxdtv.webp"],
     "descricao": "Mouse gamer de alta performance, disponível nas cores preto e branco.",
-    "disponivel": false
+    "disponivel": true
   },
   {
     "id": 37,
     "nome": "Controle GameSir T4 Nova Lite",
     "categoria": "acessórios",
     "preco": 160,
-    "imagens": [],
+    "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240788/br-11134207-7r98o-m311y3w8ksud73_vvnaiv.jpg",
+                "https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240790/gamesir-nova-lite-a-budget-gamepad-with-nuances-v0-fye74ejg6azc1_rpv6gp.webp"],
     "descricao": "Controle sem fio compatível com múltiplas plataformas, ideal para jogos.",
-    "disponivel": false
+    "disponivel": true
   },
   {
     "id": 38,
@@ -304,7 +311,7 @@
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595766/3_sovv3l.png"
     ],
     "descricao": "Teclado padrão ABNT2 com conexão USB para uso diário.",
-    "disponivel": true
+    "disponivel": false
   },
   {
     "id": 40,
@@ -316,13 +323,13 @@
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595897/4_akmsp9.png"
     ],
     "descricao": "Mouse óptico com 3 botões e conexão USB, prático para o dia a dia.",
-    "disponivel": true
+    "disponivel": false
   },
   {
     "id": 41,
     "nome": "RAM 8GB DDR5",
     "categoria": "ram",
-    "preco": 230.0,
+    "preco": 210.0,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756584837/Captura_de_tela_2025-08-30_171313_l9aouk.png"
     ],
@@ -333,7 +340,7 @@
     "id": 42,
     "nome": "RAM 2GB DDR3L",
     "categoria": "ram",
-    "preco": 25.0,
+    "preco": 20.0,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756580899/1_r5pj50.png"
     ],
@@ -344,7 +351,7 @@
     "id": 43,
     "nome": "RAM 1GB DDR3",
     "categoria": "ram",
-    "preco": 15.0,
+    "preco": 10.0,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756580899/1_r5pj50.png"
     ],
@@ -375,9 +382,9 @@
   },
   {
     "id": 46,
-    "nome": "RAM 8GB DDR4 Fury",
+    "nome": "RAM 8GB DDR4 Fury (acompanha escovinha)",
     "categoria": "ram",
-    "preco": 125.0,
+    "preco": 130.0,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590031/fury_ddr4_d9p3mq.png"
     ],
