@@ -100,7 +100,7 @@
   {
     "id": 19,
     "nome": "Filtro de Linha iClamper",
-    "categoria": "acessórios",
+    "categoria": "outros",
     "preco": 69,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590757/1_te6gl4.jpg",
@@ -112,7 +112,7 @@
   {
     "id": 20,
     "nome": "Adaptador Bluetooth Ugreen 6.0",
-    "categoria": "acessórios",
+    "categoria": "adaptadores",
     "preco": 35,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592175/1_ushwqv.avif",
@@ -124,7 +124,7 @@
   {
     "id": 22,
     "nome": "Case HD/SSD 3.0",
-    "categoria": "acessórios",
+    "categoria": "adaptadores",
     "preco": 30,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592546/1_vrpsn7.jpg",
@@ -136,7 +136,7 @@
   {
     "id": 23,
     "nome": "Adaptador OTG 3.0",
-    "categoria": "acessórios",
+    "categoria": "adaptadores",
     "preco": 10,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756592718/1_t3133r.png",
@@ -150,7 +150,7 @@
   {
     "id": 24,
     "nome": "Adaptador Tipo C para USB",
-    "categoria": "acessórios",
+    "categoria": "adaptadores",
     "preco": 10,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756593169/1_czs2gl.png",
@@ -163,7 +163,7 @@
   {
     "id": 25,
     "nome": "HUB USB 7 Portas",
-    "categoria": "acessórios",
+    "categoria": "outros",
     "preco": 26,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594170/1_fuudt7.png"
@@ -174,7 +174,7 @@
   {
     "id": 26,
     "nome": "HUB USB 4 Portas",
-    "categoria": "acessórios",
+    "categoria": "outros",
     "preco": 22,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594237/1_hdrb6c.jpg"
@@ -185,7 +185,7 @@
   {
     "id": 27,
     "nome": "Caixa de Som T&G",
-    "categoria": "acessórios",
+    "categoria": "outros",
     "preco": 79,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594503/1_zm32pn.png",
@@ -285,7 +285,7 @@
   {
     "id": 37,
     "nome": "Controle GameSir T4 Nova Lite",
-    "categoria": "acessórios",
+    "categoria": "outros",
     "preco": 139,
     "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240788/br-11134207-7r98o-m311y3w8ksud73_vvnaiv.jpg",
                 "https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240790/gamesir-nova-lite-a-budget-gamepad-with-nuances-v0-fye74ejg6azc1_rpv6gp.webp"],
@@ -361,7 +361,7 @@
   {
     "id": 44,
     "nome": "Cabo HDMI 2.0 4K HDR 19P 2M Pix Gold",
-    "categoria": "acessórios",
+    "categoria": "outros",
     "preco": 25.0,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756583857/1_anzifn.jpg"
