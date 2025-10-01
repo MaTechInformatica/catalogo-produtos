@@ -41,7 +41,7 @@
     "id": 13,
     "nome": "SSD 500GB SATA Crucial",
     "categoria": "ssd",
-    "preco": 230,
+    "preco": 220,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756587237/3_ctkmqx.png",
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756587234/1_dlwjae.png",
@@ -489,7 +489,7 @@
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1759358127/1fe1eb07-6778-415c-888e-80cfce9c0355.png"
     ],
-    "descricao": "Mouse Gamer RGB com fio para melhorar seu setup.",
+    "descricao": "Mousepad TGT pequeno e discreto, ótimo custo-benefício e perfeito para levar para a faculdade/trabalho.",
     "disponivel": true
   },
   {
