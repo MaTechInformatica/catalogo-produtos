@@ -3,7 +3,7 @@
     "id": 10,
     "nome": "Fone de Ouvido Lenovo GM2 PRO",
     "categoria": "fones",
-    "preco": 80,
+    "preco": 79,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756579147/1_tfpuj0.jpg",
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756579829/4_q1fuhn.jpg",
@@ -17,7 +17,7 @@
     "id": 11,
     "nome": "RAM 2GB DDR3",
     "categoria": "ram",
-    "preco": 20,
+    "preco": 19,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756580899/1_r5pj50.png"
     ],
@@ -65,7 +65,7 @@
     "id": 15,
     "nome": "HD 500GB",
     "categoria": "hd",
-    "preco": 80,
+    "preco": 75,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756588198/1_m57ifv.png"
     ],
@@ -101,7 +101,7 @@
     "id": 19,
     "nome": "Filtro de Linha iClamper",
     "categoria": "acessórios",
-    "preco": 79,
+    "preco": 69,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590757/1_te6gl4.jpg",
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756590754/2_pvhnum.jpg"
@@ -186,7 +186,7 @@
     "id": 27,
     "nome": "Caixa de Som T&G",
     "categoria": "acessórios",
-    "preco": 85,
+    "preco": 79,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594503/1_zm32pn.png",
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756594509/2_oj69zb.png",
@@ -211,7 +211,7 @@
     "id": 29,
     "nome": "Fone de Ouvido Lenovo GM2 PRO MAX",
     "categoria": "fones",
-    "preco": 90,
+    "preco": 89,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595003/1_ba8gbw.png",
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595005/4_zl5fn5.jpg",
@@ -235,7 +235,7 @@
     "id": 32,
     "nome": "Projetor HY300 Pro Magicubic",
     "categoria": "outros",
-    "preco": 260,
+    "preco": 229,
     "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240017/projetor_eheoos.webp",
                 "https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240017/img_8366-rz04z1ip41_qrbytx.webp"],
     "descricao": "Mini projetor portátil para entretenimento em qualquer lugar.",
@@ -245,7 +245,7 @@
     "id": 33,
     "nome": "SSD 256GB NVME Netac",
     "categoria": "ssd",
-    "preco": 160,
+    "preco": 159,
     "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240277/S47ca5cbdfcb643ad99bc6c84e1deebbaA.jpg_720x720q75.jpg__fbrtf9.avif"],
     "descricao": "Unidade de estado sólido (SSD) padrão NVMe de 256GB para alta velocidade.",
     "disponivel": true
@@ -254,7 +254,7 @@
     "id": 34,
     "nome": "Kit Chaves de Precisão 115p",
     "categoria": "ferramentas",
-    "preco": 60,
+    "preco": 59,
     "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240450/Sd887e2c558354bfb8c23c1e6c259f8b9t.jpg_720x720q75.jpg__wrzwg3.avif",
               "https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240449/images_r9dwks.jpg",
               "https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240448/031ea64f7b9ad8abf2be059aa2b78dd8_xx3avu.webp"],
@@ -274,7 +274,7 @@
     "id": 36,
     "nome": "Mouse Attack Shark X11 + Dock de Carregamento",
     "categoria": "mouse",
-    "preco": 170,
+    "preco": 159,
     "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240618/S5c61b8949d484372bb025adcccd16336m.jpg_720x720q75.jpg__lh9utg.avif",
               "https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240617/Mouse-Wireless-Gamer-Attack-Shark-X11-Com-Doc-De-Carregamento-Magn-tica-RGB_1750442083_ex0wc4.webp",
               "https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240616/D_NQ_NP_2X_948417-MLA91935059881_092025-F_vusbbt.webp",
@@ -286,7 +286,7 @@
     "id": 37,
     "nome": "Controle GameSir T4 Nova Lite",
     "categoria": "acessórios",
-    "preco": 160,
+    "preco": 139,
     "imagens": ["https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240788/br-11134207-7r98o-m311y3w8ksud73_vvnaiv.jpg",
                 "https://res.cloudinary.com/dvulhnhjh/image/upload/v1758240790/gamesir-nova-lite-a-budget-gamepad-with-nuances-v0-fye74ejg6azc1_rpv6gp.webp"],
     "descricao": "Controle sem fio compatível com múltiplas plataformas, ideal para jogos.",
@@ -329,7 +329,7 @@
     "id": 41,
     "nome": "RAM 8GB DDR5",
     "categoria": "ram",
-    "preco": 210.0,
+    "preco": 199.0,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756584837/Captura_de_tela_2025-08-30_171313_l9aouk.png"
     ],
@@ -340,7 +340,7 @@
     "id": 42,
     "nome": "RAM 2GB DDR3L",
     "categoria": "ram",
-    "preco": 20.0,
+    "preco": 19.0,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756580899/1_r5pj50.png"
     ],
@@ -351,7 +351,7 @@
     "id": 43,
     "nome": "RAM 1GB DDR3",
     "categoria": "ram",
-    "preco": 10.0,
+    "preco": 9.0,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756580899/1_r5pj50.png"
     ],
@@ -373,7 +373,7 @@
     "id": 45,
     "nome": "HD 500GB 3.5 polegadas",
     "categoria": "hd",
-    "preco": 60.0,
+    "preco": 49.0,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756595653/3.5_polegadas_wxc0nz.jpg"
     ],
@@ -395,7 +395,7 @@
     "id": 47,
     "nome": "RAM 4GB DDR4",
     "categoria": "ram",
-    "preco": 70.0,
+    "preco": 65.0,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756584705/ddr4_yg1eux.png"
     ],
@@ -406,7 +406,7 @@
     "id": 48,
     "nome": "HD 320GB",
     "categoria": "hd",
-    "preco": 50.0,
+    "preco": 39.0,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756588301/320gb_aoxuhf.png"
     ],
@@ -451,7 +451,7 @@
     "id": 52,
     "nome": "Teclado Gamer RGB",
     "categoria": "teclado",
-    "preco": 45.0,
+    "preco": 39.0,
     "imagens": [
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1759358475/36b96baf-ff1f-464e-9be8-209a139851e4.png"
     ],
