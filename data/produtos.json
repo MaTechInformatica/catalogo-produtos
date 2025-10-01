@@ -48,7 +48,7 @@
       "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756587240/2_blfvaw.png"
     ],
     "descricao": "Unidade de estado sólido (SSD) padrão SATA com 500GB de armazenamento para upgrade de performance.",
-    "disponivel": false
+    "disponivel": true
   },
   {
     "id": 14,
@@ -442,7 +442,7 @@
     "categoria": "outros",
     "preco": 40.0,
     "imagens": [
-      
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1759358532/1c0e291f-1733-44bc-8328-bfdbff286cd7.png"
     ],
     "descricao": "Pendrive de 64GB para armazenar seus arquivos.",
     "disponivel": true
@@ -453,9 +453,9 @@
     "categoria": "teclado",
     "preco": 45.0,
     "imagens": [
-      
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1759358475/36b96baf-ff1f-464e-9be8-209a139851e4.png"
     ],
-    "descricao": "Teclado Gamer RGB com fio para melhorar seu setup..",
+    "descricao": "Teclado Gamer RGB com fio para melhorar seu setup.",
     "disponivel": true
   },
   {
@@ -464,9 +464,45 @@
     "categoria": "mouse",
     "preco": 49.0,
     "imagens": [
-      
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1759358432/f92195bb-88b5-4ec9-a117-6a530dd84bed.png"
     ],
-    "descricao": "Mouse Gamer RGB com fio para melhorar seu setup..",
+    "descricao": "Mouse Gamer RGB com fio para melhorar seu setup.",
+    "disponivel": true
+  },
+  {
+    "id": 53,
+    "nome": "Air Cooler Duplo RGB",
+    "categoria": "outros",
+    "preco": 75.0,
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1759357808/8a1bd76d-eea6-46e4-b264-80d30a0ba1b8.png"
+    ],
+    "descricao": "Air Cooler Duplo com RGB para melhorar a temperatura de sua CPU, muito melhor que um air cooler comum.",
+    "disponivel": true
+  },
+  {
+    "id": 52,
+    "nome": "Mousepad",
+    "categoria": "outros",
+    "preco": 10.0,
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1759358127/1fe1eb07-6778-415c-888e-80cfce9c0355.png"
+    ],
+    "descricao": "Mouse Gamer RGB com fio para melhorar seu setup.",
+    "disponivel": true
+  },
+  {
+    "id": 52,
+    "nome": "Mousepad Gamer Havit 70cm x 30cm",
+    "categoria": "outros",
+    "preco": 45.0,
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1759358229/75c55e81-e42d-4728-9cfc-2aa996c6a68c.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1759358264/12560cb2-1dcd-4290-90ef-3d748613adcf.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1759358245/4c1b84e7-dd24-4592-a085-970e3fb43e98.png",
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1759358267/f94fae04-4fa4-4900-a8ec-5aa54c52e889.png"
+    ],
+    "descricao": "Mousepad Gamer Havit 70cm x 30cm.",
     "disponivel": true
   }
 ]
