@@ -13,15 +13,15 @@
     "descricao": "Fone de ouvido sem fio de baixa latência, ideal para jogos e uso diário. Disponível nas cores <strong>preto</strong> e <strong>branco</strong>.",
     "disponivel": true
   },
-  {
+   {
     "id": 11,
-    "nome": "RAM 2GB DDR3",
-    "categoria": "ram",
-    "preco": 19,
+    "nome": "Mouse Gamer RGB",
+    "categoria": "mouse",
+    "preco": 49.0,
     "imagens": [
-      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756580899/1_r5pj50.png"
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1759358432/f92195bb-88b5-4ec9-a117-6a530dd84bed.png"
     ],
-    "descricao": "Módulo de memória RAM com 2GB de capacidade, padrão DDR3.",
+    "descricao": "Mouse Gamer RGB com fio para melhorar seu setup.",
     "disponivel": true
   },
   {
@@ -447,8 +447,19 @@
     "descricao": "Pendrive de 64GB para armazenar seus arquivos.",
     "disponivel": true
   },
-  {
+    {
     "id": 52,
+    "nome": "RAM 2GB DDR3",
+    "categoria": "ram",
+    "preco": 19,
+    "imagens": [
+      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1756580899/1_r5pj50.png"
+    ],
+    "descricao": "Módulo de memória RAM com 2GB de capacidade, padrão DDR3.",
+    "disponivel": true
+  },
+  {
+    "id": 53,
     "nome": "Teclado Gamer RGB",
     "categoria": "teclado",
     "preco": 39.0,
@@ -458,19 +469,9 @@
     "descricao": "Teclado Gamer RGB com fio para melhorar seu setup.",
     "disponivel": true
   },
+ 
   {
-    "id": 52,
-    "nome": "Mouse Gamer RGB",
-    "categoria": "mouse",
-    "preco": 49.0,
-    "imagens": [
-      "https://res.cloudinary.com/dvulhnhjh/image/upload/v1759358432/f92195bb-88b5-4ec9-a117-6a530dd84bed.png"
-    ],
-    "descricao": "Mouse Gamer RGB com fio para melhorar seu setup.",
-    "disponivel": true
-  },
-  {
-    "id": 53,
+    "id": 54,
     "nome": "Air Cooler Duplo RGB",
     "categoria": "outros",
     "preco": 75.0,
@@ -481,7 +482,7 @@
     "disponivel": true
   },
   {
-    "id": 52,
+    "id": 55,
     "nome": "Mousepad",
     "categoria": "outros",
     "preco": 10.0,
@@ -492,7 +493,7 @@
     "disponivel": true
   },
   {
-    "id": 52,
+    "id": 56,
     "nome": "Mousepad Gamer Havit 70cm x 30cm",
     "categoria": "outros",
     "preco": 45.0,
